@@ -7,7 +7,7 @@
   }
 }
 
-.rotation__images{ 
+.rotation_images{ 
    animation: rotation 20s linear infinite; 
 }
 
