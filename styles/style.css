@@ -71,57 +71,57 @@
   width: 80%;
   display: flex;
   margin: 0 auto;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   overflow: hidden;
   justify-content: center;
 }
-.cards__item{
-    margin: 60px 50px 60px;
-    max-width: 240px;
+.cards__item {
+  margin: 60px 50px 60px;
+  max-width: 240px;
 }
 
-  .cards__item_no-text {
-    margin-bottom:-117px ;
-    margin-top: 0;
-  } 
-  .cards__item_no-text_no-image{
-    width: 240px;
-    height: 209px;
-  }
-.cards__image{
-    width: 160px;
-    height: 160px;
-    margin: 0 40px 43px;
-    border-radius: 50%;
+.cards__item_no-text {
+  margin-bottom: -117px;
+  margin-top: 0;
 }
-.cards__title{
-    margin: 0 0;
-    font-size: 24px;
-    line-height: 1.15;
-    font-weight: bold;
-    text-align: center;
+.cards__item_no-text_no-image {
+  width: 240px;
+  height: 209px;
 }
-.cards__description{
-    margin: 16px 0 0;
-    font-size: 18px;
-    font-weight: normal;
-    text-align: center;
+.cards__image {
+  width: 160px;
+  height: 160px;
+  margin: 0 40px 43px;
+  border-radius: 50%;
+}
+.cards__title {
+  margin: 0 0;
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: bold;
+  text-align: center;
+}
+.cards__description {
+  margin: 16px 0 0;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
 }
 
-.video__iframes{
-    display: flex;
-  margin-top: 50px; 
+.video__iframes {
+  display: flex;
+  margin-top: 50px;
   margin-bottom: -50px;
   justify-content: center;
 }
-.video__iframe{
-    width: 515px;
-    height: 316px;
-    margin: 0 10px;
+.video__iframe {
+  width: 515px;
+  height: 316px;
+  margin: 0 10px;
 }
-.oakley{
+.oakley {
   background-color: #f2f2f2;
-  padding:60px 0 0; 
+  padding: 60px 0 0;
 }
 .two-columns {
   display: flex;
@@ -246,54 +246,54 @@
   font-weight: normal;
   margin: 20px 0;
 }
-.khan{
-  background-color:#f2f2f2;
-   padding-top: 105px; 
+.khan {
+  background-color: #f2f2f2;
+  padding-top: 105px;
 }
-.khan__container{
+.khan__container {
   width: 80%;
-   margin: 0 auto; 
+  margin: 0 auto;
 }
-.khan__author{
-    margin: 0;
-   line-height: 42px; 
-   font-size: 30px;
-   font-weight: normal;  
+.khan__author {
+  margin: 0;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
 }
-.khan__title{
- line-height: 1.15; 
-   font-size: 60px;
-   font-weight: bold;
-   margin: 0;  
+.khan__title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+  margin: 0;
 }
-.khan__quote{
-    width: 790px;
-    line-height: 34px; 
-   font-size: 24px;
-   font-weight: normal;
-   margin: 50px 0 36px; 
+.khan__quote {
+  width: 790px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 50px 0 36px;
 }
-.khan__quote-author{
-    line-height: 1.15; 
-   font-size: 24px;
-   font-weight: bold;
-   margin: 0;
+.khan__quote-author {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
 }
-.khan__quote-author-subline{
-  line-height: 1.15; 
-   font-size: 24px;
-   font-weight: normal;
-   margin: 10px 0 68px;
+.khan__quote-author-subline {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 10px 0 68px;
 }
-.khan__booc-pic{
-    width: 620px;
-    margin-bottom: -279px;
+.khan__booc-pic {
+  width: 620px;
+  margin-bottom: -279px;
 }
-.khan__buy-link{
-    vertical-align: top;
-    line-height: 42px; 
-   font-size: 30px;
-   font-weight: normal;  
+.khan__buy-link {
+  vertical-align: top;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
 }
 .kaufman {
   background-color: #1f1f1f;
@@ -357,13 +357,13 @@
   z-index: -1;
   background-size: cover;
 }
-.resources__logo-zone{
-    width: 1100px;
-    margin: 80px auto 217px;
+.resources__logo-zone {
+  width: 1100px;
+  margin: 80px auto 217px;
 }
-.resources__logo{
-    width: 270px;
-    height: 38px;
+.resources__logo {
+  width: 270px;
+  height: 38px;
 }
 .logo_place_footer {
   height: 35px;
