@@ -1,0 +1,8 @@
+.cards {
+  width: 920px;
+  display: inline-grid;
+  grid-template-columns: repeat(3, 1fr);
+  overflow: hidden;
+  margin: 0 auto;
+  
+}
