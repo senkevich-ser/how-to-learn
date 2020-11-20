@@ -3,6 +3,7 @@
   font-weight: normal;
   color: #2f80ed;
   text-decoration: none;
+  transition: opacity 0.2s;
 }
 .header__link:hover {
   opacity: 0.5;
