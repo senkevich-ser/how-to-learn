@@ -4,4 +4,5 @@
   color: white;
   display: flex;
   padding: 60px 0 40px;
+  box-sizing: border-box;
 }

@@ -1,13 +1,5 @@
-.section-title_theme_dark{
-z-index: 2;
-}
 .table_theme_dark{
 margin: 0 auto;
-z-index: 2;
-}
-.table__cell_theme_dark{
-max-width: 200px;
-margin: 80px auto 0;
 z-index: 2;
 }
 
